@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse">Parse</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="first_title">First ten symbols</string>
+    <string name="second_title">Add comma after each ten symbol</string>
+    <string name="third_title">Count of Auto words</string>
+    <string name="clear">Clear</string>
+    <string name="no_connection">No internet connection, please enable wi-fi or data connection.</string>
+</resources>
